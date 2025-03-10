@@ -2,11 +2,11 @@
 	width: 50px;
 }
 body{
-background-color:rgb(230, 178, 186);
-	}
+	background-color:rgb(230, 178, 186);
 }
 .navbar {
 	background-color: rgb(197, 153, 182);
+	border-bottom: black 5px solid;
 }
 .container{
 	padding: 15px;
