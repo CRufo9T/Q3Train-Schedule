@@ -2,10 +2,13 @@
 	width: 50px;
 }
 body{
-background-image: url(peach.jpg);
-background-size: cover;
+background-color:rgb(230, 178, 186);
+	}
 }
-}.container{
+.navbar {
+	background-color: rgb(197, 153, 182);
+}
+.container{
 	padding: 15px;
 	border-radius: 10px;
 	color: white;
@@ -15,12 +18,12 @@ h1{
 	text-align: center;
 	text-shadow: 2px 2px 6px #FFFFFF;
 	color: black;
-}p{
+}
+p{
 	text-align: center;
 	color: white;
-
-
-} .recipe-container {
+} 
+.recipe-container {
     max-width: 800px;
     height: 500px;
     margin: 50px auto; 
